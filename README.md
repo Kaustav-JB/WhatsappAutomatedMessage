@@ -4,7 +4,10 @@ Simply provide your Twilio Account SID, Authentication Token, and set up your me
 
 Features -
 
-_Schedule Messages_: Set a date and time to automatically send SMS messages.
+_Schedule Messages_: Set a date and time to automatically send messages.
+
 _Twilio Integration_: Leverage the power of Twilio's API to send messages seamlessly.
+
 _Easy Setup_: All you need is your Twilio SID and Authentication Token to get started.
+
 _Customizable_: You can modify the scheduled messages, timing, and other settings based on your needs.
