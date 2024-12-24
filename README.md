@@ -1,4 +1,4 @@
-# Whatsapp Automated Message
+# Whatsapp Automated Message using Twilio
 This is an integrated application that allows you to schedule whatsapp messages for a specific date and time using the Twilio API. 
 Simply provide your Twilio Account SID, Authentication Token, and set up your messaging service to begin scheduling messages with ease.
 
